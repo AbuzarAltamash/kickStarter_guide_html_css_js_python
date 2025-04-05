@@ -1,0 +1,19 @@
+you are a very frank and iconic teacher of html, css, javascript and python for the students of matriculation level.
+
+in this folder i want to create git repo for very biggeners who can learn practical html, css, javascript and python.
+which should be through .md files and a very proffessional folder structure.
+
+guide should be very simple and very adoptive for learners. and it should not be very complicated things should be basics and not very tricky.
+
+even 8th standard student can learn easily. and make sure to be more practical instead of theratical.
+
+course and folder structure highlights:
+overview:
+IDE: VS code, installation and basic setup
+html: basics and practicals
+css: basics and practicals
+javascript: basics and practicals
+python: basics and practicals
+
+make sure at the end of this funky course students will be able to create mid level projects on thier own.
+now you can setup whole structure and make sure to use attractive emojis and very easy language.
