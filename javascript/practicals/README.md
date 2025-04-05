@@ -402,6 +402,7 @@ let currentInput = '';
 let firstOperand = null;
 let operator = null;
 let waitingForSecondOperand = false;
+let ids = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
 
 // Function to update the display
 function updateDisplay() {
@@ -502,7 +503,7 @@ function backspace() {
 buttons.forEach(button => {
     button.addEventListener('click', function() {
         // Digits 0-9
-        if (button.id >= 'zero' && button.id <= 'nine') {
+        if (ids.includes(button.id)) {
             const digit = button.textContent;
             inputDigit(digit);
             updateDisplay();

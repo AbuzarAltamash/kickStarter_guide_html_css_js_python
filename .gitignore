@@ -1,5 +1,6 @@
 # Python files
 __pycache__/
+context.txt
 *.py[cod]
 *$py.class
 *.so
